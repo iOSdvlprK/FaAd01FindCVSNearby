@@ -22,6 +22,7 @@
 		D87F6FFE2C207406007A0954 /* LocationInformationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87F6FFD2C207406007A0954 /* LocationInformationViewModel.swift */; };
 		D87F70012C2074FD007A0954 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = D87F70002C2074FD007A0954 /* SnapKit */; };
 		D87F70032C2074FD007A0954 /* SnapKit-Dynamic in Frameworks */ = {isa = PBXBuildFile; productRef = D87F70022C2074FD007A0954 /* SnapKit-Dynamic */; };
+		D87F70052C20ABA0007A0954 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87F70042C20ABA0007A0954 /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		D87F6FF82C2072E0007A0954 /* DetailListCellData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailListCellData.swift; sourceTree = "<group>"; };
 		D87F6FFB2C20739C007A0954 /* LocationInformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationInformationViewController.swift; sourceTree = "<group>"; };
 		D87F6FFD2C207406007A0954 /* LocationInformationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationInformationViewModel.swift; sourceTree = "<group>"; };
+		D87F70042C20ABA0007A0954 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 			isa = PBXGroup;
 			children = (
 				D87F6FF12C206FA9007A0954 /* BaseMapViewController.swift */,
+				D87F70042C20ABA0007A0954 /* MapViewController.swift */,
 			);
 			path = KakaoMaps;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				D87F6FFC2C20739C007A0954 /* LocationInformationViewController.swift in Sources */,
 				D87F6FD82C206E0D007A0954 /* AppDelegate.swift in Sources */,
 				D87F6FF92C2072E0007A0954 /* DetailListCellData.swift in Sources */,
+				D87F70052C20ABA0007A0954 /* MapViewController.swift in Sources */,
 				D87F6FFE2C207406007A0954 /* LocationInformationViewModel.swift in Sources */,
 				D87F6FDA2C206E0D007A0954 /* SceneDelegate.swift in Sources */,
 				D87F6FF22C206FA9007A0954 /* BaseMapViewController.swift in Sources */,
